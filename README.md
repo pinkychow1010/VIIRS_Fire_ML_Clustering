@@ -1,5 +1,4 @@
 # **Active Fire Detection using VIIRS Data**
-This is the programming challenge from OroraTech to detect active fire hotspots using remote sensing data.
 
 #### 01.11.2021
 
