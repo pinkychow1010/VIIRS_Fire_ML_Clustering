@@ -1,9 +1,8 @@
 # **Active Fire Detection using VIIRS Data**
 
-#### 01.11.2021
+In this project, Level-1 VIIRS imageries from 2020 are used to detect active fire in California. Mid-infrared band (M13) is used to detect the hotspots and the geolocations are used to form fire clusters which are then vertorized into polygons.
 
-### **Data Source:** Images from the VIIRS instrument onboard the Suomi-NPP satellite from California on 2020-08-20 and 2020-08-21
-### **Spectral Band:** MWIR (M13) Band
+Data Source: Images from the VIIRS instrument onboard the Suomi-NPP satellite from California on 2020-08-20 and 2020-08-21 Spectral Band: MWIR (M13) Band
 
 #### **Workflow** 
 
@@ -21,3 +20,5 @@ Output:
 <br>
 
 ![alt text](https://github.com/pinkychow1010/machine-learning-project/blob/main/image/fire-cluster.jpg)
+
+01.11.2021
